@@ -1,4 +1,4 @@
-//use your own data
+//use your own data 
 const apiKey = "";
 
 const maxImages = 4; 
