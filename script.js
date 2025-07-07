@@ -1,4 +1,4 @@
-//use you
+//use your
 const apiKey = "";
 
 const maxImages = 4; 
