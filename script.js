@@ -1,4 +1,4 @@
-//use your own d
+//use your own da
 const apiKey = "";
 
 const maxImages = 4; 
