@@ -1,4 +1,4 @@
-//use your ow
+//use your own
 const apiKey = "";
 
 const maxImages = 4; 
