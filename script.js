@@ -1,4 +1,4 @@
-//use your own
+//use your own d
 const apiKey = "";
 
 const maxImages = 4; 
