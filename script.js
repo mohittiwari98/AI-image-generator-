@@ -1,4 +1,4 @@
-//u
+//us
 const apiKey = "";
 
 const maxImages = 4; 
