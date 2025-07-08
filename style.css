@@ -16,7 +16,7 @@ body{
     min-height: 100vh;
 }
 
-/*
+/*container */
 .container{
     position: relative;
     width: 40rem;
