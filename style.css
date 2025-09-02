@@ -34,7 +34,7 @@ body{
     content: "";
     position: absolute;
     background-color: #ed2ff0;
-    width: 120px;
+    width: 122px;
     height: 120px;
     filter: blur(140px);
     left: -20%;
